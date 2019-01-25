@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Biggs\' Shopping List</string>
+    <string name="cals_today">cals today</string>
+    <string name="add">add</string>
+    <string name="enter_food">enter food here</string>
+    <string name="cals_hint">cals</string>
+
+    <!-- menus -->
+    <string name="menu_delete">Delete</string>
+    <string name="menu_copy">Copy</string>
+    <string name="menu_edit">Edit</string>
+
+</resources>
